@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css?family=Alfa+Slab+One');
+
+body{
+    background-image: linear-gradient(to right top, #051937, #004d7a, #008793, #00bf72, #a8eb12);;
+    font-family: "Alfa Slab One",Impact,'Times New Roman', Times;
+    color: white;
+}
+
+h1{
+    font-size: 56px;
+    height: 200px;
+    line-height: 530px;
+    word-spacing: 7px;
+    letter-spacing: 2px;
+    text-align: center;
+    align-self: center;
+    text-shadow: 5px 5px #000000;
+}
